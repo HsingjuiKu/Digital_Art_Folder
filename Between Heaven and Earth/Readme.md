@@ -1,3 +1,5 @@
+Please remember you need to use Processing to open it!
+
 The inspiration of this work comes from this ancient poem, which demonstrates the basic concepts of materialism and idealism. 
 In the author's opinion, any extreme view will lead to the deviation of looking at the problem. 
 In my works, I use the circle to represent idealism, and the square to represent materialism. 
